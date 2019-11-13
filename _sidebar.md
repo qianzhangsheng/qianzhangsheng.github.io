@@ -19,4 +19,8 @@
     - [Node](/node/index.md)
     - [Spider](/spider/index.md)
     - [Electron](/electron/index.md)
-    - [codeReview](/codeReview/index.md)
+    - [代码审查](/codeReview/index.md)
+    - [正则表达式](/regularExpression/index.md)
+    - [nginx 配置介绍](/nginx/index.md)
+- 学习
+    - [three.js快速上手](/three/index.md)
