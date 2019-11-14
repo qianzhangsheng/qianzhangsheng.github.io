@@ -36,7 +36,6 @@
         maxLevel: 4,
         subMaxLevel: 4,
         search: 'auto', // 默认值
-
         search: [
             '/',  // => /README.md
             '/guide',  // => /guide.md
@@ -47,24 +46,21 @@
             '/nginx',
             '/three',
         ],
-
         // 完整配置参数
         search: {
             maxAge: 86400000, // 过期时间，单位毫秒，默认一天
             paths: 'auto',
-
             // 支持本地化
             placeholder: {
                 '/': '搜索',
                 '/en/': 'Type to search'
             },
-
             noData: {
-                '/zh-cn/': '找不到结果',
-                '/': 'No Results'
-            }
+                '/': '找不到结果',
+                '/en': 'No Results'
+            },
+            depth: 2,
         },
-
         plugins: [
             DemoBoxVue.create(jsResources, cssResources, bootCode),
         ],
