@@ -1,7 +1,7 @@
 {
   "name": "docs",
   "version": "1.0.0",
-  "description": "> 文档仓库 https://ishangzu-fe.github.io/docs",
+  "description": "> 文档仓库 http://gitlab.hztianque.com/f3e/alexeistukov-docs",
   "main": "index.js",
   "scripts": {
     "serve": "./node_modules/.bin/docsify serve ."

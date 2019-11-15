@@ -5,7 +5,7 @@
         - [JavaScript](/standard/js.md)
     - [Git](/standard/git.md)
 - 项目
-    - [Tofu](/tofu/tofu.md)
+    - [alexeistukov](/alexeistukov/alexeistukov.md)
 		- 基础组件
 			- [cascader](/components/cascader.md)
             - [popup](/components/popup.md)
@@ -14,8 +14,8 @@
         - 业务组件
             - [图片放大器](/components/previewer.md)
             - [表格字段筛选器](/components/field_filter.md)
-    - [Tofu-cli](/tofu/tofu-cli.md)
-    - [Tofu-template](/tofu/tofu-template.md)
+    - [alexeistukov-cli](/alexeistukov/alexeistukov-cli.md)
+    - [alexeistukov-template](/alexeistukov/alexeistukov-template.md)
     - [Node](/node/index.md)
     - [Spider](/spider/index.md)
     - [Electron](/electron/index.md)

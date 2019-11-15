@@ -2,7 +2,7 @@
 
 因为业务需要，我们制作了右键菜单组件，使用方法请参考以下内容。
 
-!> tofu >= 1.0.0-beta.12
+!> alexeistukov >= 1.0.0-beta.12
 
 ## 用法
 
@@ -10,7 +10,7 @@
 
 ~~~javascript
 // 加载插件
-Vue.install(tofu.contextmenu);
+Vue.install(alexeistukov.contextmenu);
 
 // 使用
 this.$showContextMenu([

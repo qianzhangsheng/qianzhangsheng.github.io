@@ -19,60 +19,60 @@
 
 分别对应着五个命令：
 
-- tofu init
-- tofu server
-- tofu build
-- tofu update
-- tofu lint
+- tq init
+- tq server
+- tq build
+- tq update
+- tq lint
 
 现在来介绍下这些命令的用法。
 
-> tofu-cli 下载以后，需要到 tofu-cli 的 node_modules 里把 webpack-hot-middleware 降级为 2.22.2
+> alexeistukov-cli 下载以后，需要到 alexeistukov-cli 的 node_modules 里把 webpack-hot-middleware 降级为 2.22.2
 
 ## 用法
 
 ### init
 
 ~~~bash
-tofu init
+tq init
 ~~~
 
 ### server
 
 ~~~bash
-tofu server
+tq server
 
 # 指定端口
-tofu server [-p|--port <port>]
+tq server [-p|--port <port>]
 ~~~
 
 ### build
 
 ~~~bash
-tofu build
+tq build
 
 # 不压缩
-tofu build [-C|--no-compress]
+tq build [-C|--no-compress]
 # 压缩后删除 dist
-tofu build [-d|--delete]
+tq build [-d|--delete]
 ~~~
 
 ### update
 
 ~~~bash
-tofu update
+tq update
 
-# 更新模板，i-tofu 和 tofu-cli
-tofu update [-a|--all]
+# 更新模板，alexeistukov-ui 和 alexeistukov-cli
+tq update [-a|--all]
 ~~~
 
 ### lint
 
 ~~~bash
-tofu lint
+tq lint
 
 # 自动修复
-tofu lint [-f|--fix]
+tq lint [-f|--fix]
 ~~~
 
 ## .tofurc 配置选项说明

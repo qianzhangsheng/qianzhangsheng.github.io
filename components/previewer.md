@@ -2,7 +2,7 @@
 
 因为业务需要，我们新增了图片放大器，使用非常简单，请参考以下内容。
 
-!> tofu >= 0.3.18
+!> alexeistukov >= 0.3.18
 
 ## 用法
 
@@ -10,7 +10,7 @@
 
 ~~~javascript
 // 加载插件
-Vue.install(tofu.previewer);
+Vue.install(alexeistukov.previewer);
 
 // 使用
 <i-button @click="handleClick">Preview images</i-button>

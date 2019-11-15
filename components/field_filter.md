@@ -4,7 +4,7 @@
 
 此组件基于 popup 组件制作。（参见[popup](/popup))
 
-!> tofu >= 1.0.0-beta.16
+!> alexeistukov >= 1.0.0-beta.16
 
 ## 用法
 

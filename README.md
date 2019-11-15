@@ -1,6 +1,6 @@
-# Ishangzu-FE 团队
+# 天阙前端三组团队
 
-> 文档仓库 https://ishangzu-fe.github.io/docs
+> 文档仓库 http://gitlab.hztianque.com/f3e/alexeistukov-docs
 
 ## 故事
 
@@ -25,8 +25,8 @@
     - [代码规范](/code.md)
     - [Git](/git.md)
 - 项目
-    - [Tofu](/tofu.md)
-    - [Tofu-cli](/tofu-cli.md)
-    - [Tofu-template](/tofu-template.md)
+    - [alexeistukov](/alexeistukov.md)
+    - [alexeistukov-cli](/alexeistukov-cli.md)
+    - [alexeistukov-template](/alexeistukov-template.md)
     - [Node](/node.md)
     - [Electron](/electron/index.md)

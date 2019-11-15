@@ -4,7 +4,7 @@
 
 基于此组件，我们制作了表格字段筛选器，参见[表格字段筛选器](/field_filter)
 
-!> tofu >= 0.3.7
+!> alexeistukov >= 0.3.7
 
 ## 用法
 
@@ -16,7 +16,7 @@
     title="隐藏显示列"
     direction="north"
     :autoClose="false"
-    icon-class="tofu-icon icon-stop-square">
+    icon-class="alexeistukov-icon icon-stop-square">
     <ul class="list">
         <i-checkbox-group
             v-model="checked"
