@@ -21,12 +21,31 @@
 
 ## 目录
 
+- 开始
+    - [首页](/)
 - 规范
-    - [代码规范](/code.md)
-    - [Git](/git.md)
+    - [代码规范](/standard/index.md)
+        - [JavaScript](/standard/js.md)
+    - [Git](/standard/git.md)
 - 项目
-    - [alexeistukov](/alexeistukov.md)
-    - [alexeistukov-cli](/alexeistukov-cli.md)
-    - [alexeistukov-template](/alexeistukov-template.md)
-    - [Node](/node.md)
+    - [alexeistukov](/alexeistukov/alexeistukov.md)
+		- 基础组件
+			- [cascader](/components/cascader.md)
+            - [popup](/components/popup.md)
+            - [context-menu](/components/context-menu.md)
+            - [dropdown-tree](/components/dropdown-tree.md)
+        - 业务组件
+            - [图片放大器](/components/previewer.md)
+            - [表格字段筛选器](/components/field_filter.md)
+    - [alexeistukov-cli](/alexeistukov/alexeistukov-cli.md)
+    - [alexeistukov-template](/alexeistukov/alexeistukov-template.md)
+    - [Node](/node/index.md)
+    - [Spider](/spider/index.md)
     - [Electron](/electron/index.md)
+    - [代码审查](/codeReview/index.md)
+    - [正则表达式](/regularExpression/index.md)
+    - [nginx 配置介绍](/nginx/index.md)
+    - [开发常用工具函数](/commonlyUsedFunctions/index.md)
+- 学习
+    - [three.js快速上手](/three/index.md)
+    - [通过 D3.js 来讲解图的一些理论,可以快速浏览看](https://d3gt.com/)

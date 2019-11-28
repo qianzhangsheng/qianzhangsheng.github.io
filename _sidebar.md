@@ -22,6 +22,7 @@
     - [代码审查](/codeReview/index.md)
     - [正则表达式](/regularExpression/index.md)
     - [nginx 配置介绍](/nginx/index.md)
+    - [开发常用工具函数](/commonlyUsedFunctions/index.md)
 - 学习
     - [three.js快速上手](/three/index.md)
     - [通过 D3.js 来讲解图的一些理论,可以快速浏览看](https://d3gt.com/)
