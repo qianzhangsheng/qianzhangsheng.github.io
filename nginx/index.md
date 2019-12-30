@@ -1,5 +1,6 @@
 # [前端想要了解的Nginx](https://juejin.im/post/5cae9de95188251ae2324ec3?utm_source=gold_browser_extension)
 
+```
 #运行用户
 user nobody;
 #启动进程,通常设置成和cpu的数量相等
@@ -123,12 +124,13 @@ http {
 
     }
 }
-```
 
+```
 
 下面附带上公司的配置：
 
 ```
+
 user www-data;
 worker_processes 4;
 pid /run/nginx.pid;
@@ -203,3 +205,5 @@ http {
    }
 	include /etc/nginx/conf.d/*.conf;
 }
+
+```

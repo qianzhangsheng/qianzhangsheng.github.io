@@ -5,7 +5,7 @@
         - [JavaScript](/standard/js.md)
     - [Git](/standard/git.md)
 - 项目
-    - [alexeistukov](/alexeistukov/alexeistukov.md)
+    - [alexeistukov-ui](/alexeistukov/alexeistukov.md)
 		- 基础组件
 			- [cascader](/components/cascader.md)
             - [popup](/components/popup.md)

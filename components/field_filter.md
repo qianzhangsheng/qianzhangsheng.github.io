@@ -2,9 +2,9 @@
 
 因为业务需要，我们新增了表格字段筛选器，请参考以下内容。
 
-此组件基于 popup 组件制作。（参见[popup](/popup))
+此组件基于 popup 组件制作。（参见[popup](/components/popup))
 
-!> alexeistukov >= 1.0.0-beta.16
+!> alexeistukov-ui >= 1.0.0
 
 ## 用法
 
