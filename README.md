@@ -1,4 +1,4 @@
-# 天阙前端三组团队
+# 前端三组团队
 
 > 文档仓库 http://gitlab.hztianque.com/f3e/alexeistukov-docs
 
