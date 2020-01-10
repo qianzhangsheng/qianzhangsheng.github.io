@@ -26,7 +26,7 @@
 - 规范
     - [代码规范](/standard/index.md)
         - [JavaScript](/standard/js.md)
-    - [Git](/standard/git.md)
+    - [Git](/standard/gitflow.md)
 - 项目
     - [alexeistukov](/alexeistukov/alexeistukov.md)
 		- 基础组件

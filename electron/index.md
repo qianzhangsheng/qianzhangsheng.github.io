@@ -210,7 +210,7 @@
 ---
 
 ## 项目分支
-项目分支采用 [Gitflow 模型](/standard/git.md)：
+项目分支采用 [Gitflow 模型](/standard/gitflow.md)：
 - master: 主分支，仅包括发布的版本
 - dev: 开发分支
 - feature-…

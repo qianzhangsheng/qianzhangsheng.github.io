@@ -3,7 +3,8 @@
 - 规范
     - [代码规范](/standard/index.md)
         - [JavaScript](/standard/js.md)
-    - [Git](/standard/git.md)
+    - [Gitflow](/standard/gitflow.md)
+    - [Git 协同与提交规范](/standard/gitcommit.md)
 - 项目
     - [alexeistukov-ui](/alexeistukov/alexeistukov.md)
 		- 基础组件
