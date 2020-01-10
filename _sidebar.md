@@ -28,3 +28,4 @@
 - 学习
     - [three.js快速上手](/three/index.md)
     - [通过 D3.js 来讲解图的一些理论,可以快速浏览看](https://d3gt.com/)
+    - [Vue 组件数据通信方案总结](/vue/prop.md)
